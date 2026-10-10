@@ -12,7 +12,8 @@
 ---
 
 ### 🎯 Sobre mí
-Actualmente curso la carrera de Ingeniería de Sistemas
+Actualmente curso la carrera de Ingeniería de Sistemas en la universidad nur
+voy por el segundo semestre
 
 ---
 
@@ -22,8 +23,6 @@ Actualmente curso la carrera de Ingeniería de Sistemas
   <img src="https://img.shields.io/badge/Ciberseguridad-3FB950?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Ciberseguridad" />
   <img src="https://img.shields.io/badge/Redes_y_Sistemas-58A6FF?style=for-the-badge&logo=gnubash&logoColor=white" alt="Redes" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Desarrollo_Software-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Desarrollo" />
 </p>
 
 ---
